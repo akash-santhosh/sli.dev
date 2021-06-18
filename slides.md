@@ -263,7 +263,6 @@ layout: center
 class: text-center
 ---
 
-    <img src="https://avatars.githubusercontent.com/u/33491581"`/>
 
 # Thank You
  
