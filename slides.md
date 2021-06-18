@@ -159,7 +159,7 @@ preload: false
     v-motion
     :initial="{ x: -80, opacity: 0}"
     :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
-    Hello There
+    Be in the network
   </div>
 </div>
 
