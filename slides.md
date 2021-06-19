@@ -1,8 +1,9 @@
 ---
-theme: purplin
-layout: image-x
-image: 'https://pbs.twimg.com/profile_images/1097543107208302592/-D6NzUsc_400x400.jpg'
-imageOrder: 2
+theme: unicorn
+layout: intro
+website: 'akashsanthosh.me'
+handle: 'aks.one'
+introImage: 'https://pbs.twimg.com/profile_images/1097543107208302592/-D6NzUsc_400x400.jpg'
 ---
 # Why do you need Tech Communities
 
@@ -14,14 +15,6 @@ slides for Hack Club KMEA
   </span>
 </div>
 
-<BarBottom
-  title="Akash Santhosh"
-  :social="[
-    { type: 'ig', username: 'akash._.santhosh' },
-    { type: 'tw', username: '_akashsanthosh' },
-    { type: 'wb', username: 'aks.one' }
-  ]"
-/>
 
 ---
 
@@ -57,14 +50,6 @@ h1 {
 }
 </style>
 
-<BarBottom
-  title="Akash Santhosh"
-  :social="[
-    { type: 'ig', username: 'akash._.santhosh' },
-    { type: 'tw', username: '_akashsanthosh' },
-    { type: 'wb', username: 'aks.one' }
-  ]"
-/>
 
 ---
 
@@ -85,14 +70,7 @@ h1 {
 <p v-after class="absolute bottom-23 right-5 opacity-30 transform -rotate-42">Here!</p>
 <p v-after class="absolute bottom-5 right-35 opacity-30 transform">Apply Skills</p>
 
-<BarBottom
-  title="Akash Santhosh"
-  :social="[
-    { type: 'ig', username: 'akash._.santhosh' },
-    { type: 'tw', username: '_akashsanthosh' },
-    { type: 'wb', username: 'aks.one' }
-  ]"
-/>
+
 
 ---
 
@@ -113,14 +91,7 @@ graph LR
 	A(Alice)-- Hey, I Know Flutter-->B(John)
     B-- Cool, I Know Firebase-->A
 ```
-<BarBottom
-  title="Akash Santhosh"
-  :social="[
-    { type: 'ig', username: 'akash._.santhosh' },
-    { type: 'tw', username: '_akashsanthosh' },
-    { type: 'wb', username: 'aks.one' }
-  ]"
-/>
+
 
 ---
 preload: false
@@ -193,14 +164,7 @@ const final = {
 
 </div>
 
-<BarBottom
-  title="Akash Santhosh"
-  :social="[
-    { type: 'ig', username: 'akash._.santhosh' },
-    { type: 'tw', username: '_akashsanthosh' },
-    { type: 'wb', username: 'aks.one' }
-  ]"
-/>
+
 
 ---
 
@@ -214,14 +178,7 @@ A professional networking event is a great opportunity to present yourself, make
 Networking is an ongoing process, it requires persistence, attention, organisation and good will. Incorporate the art of networking into your job search and you will gain opportunities and build relationships that will last a lifetime.
 
 
-<BarBottom
-  title="Akash Santhosh"
-  :social="[
-    { type: 'ig', username: 'akash._.santhosh' },
-    { type: 'tw', username: '_akashsanthosh' },
-    { type: 'wb', username: 'aks.one' }
-  ]"
-/>
+
 ---
 
 # How to network
@@ -248,14 +205,7 @@ Networking is an ongoing process, it requires persistence, attention, organisati
 
 11. Never dismiss anyone as unimportant.
 
-<BarBottom
-  title="Akash Santhosh"
-  :social="[
-    { type: 'ig', username: 'akash._.santhosh' },
-    { type: 'tw', username: '_akashsanthosh' },
-    { type: 'wb', username: 'aks.one' }
-  ]"
-/>
+
 
 ---
 layout: center
