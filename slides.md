@@ -2,7 +2,7 @@
 theme: purplin
 class: text-center
 layout: image-x
-image: https://aks.one/sli.dev/Akash%20Santhosh.jpeg
+image: 'https://aks.one/sli.dev/Akash%20Santhosh.jpeg'
 imageOrder: 2
 ---
 # Why do you need Tech Communities
