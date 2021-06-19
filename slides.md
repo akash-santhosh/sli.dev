@@ -126,8 +126,7 @@ graph LR
 preload: false
 ---
 
-# Network
-
+#
 
 <div class="w-60 relative mt-6">
   <div class="relative w-40 h-40">
@@ -159,7 +158,7 @@ preload: false
     v-motion
     :initial="{ x: -80, opacity: 0}"
     :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
-    Network and Networking
+    Network
   </div>
 </div>
 
