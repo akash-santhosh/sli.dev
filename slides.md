@@ -1,21 +1,27 @@
 ---
-theme: unicorn
-layout: intro
-website: 'akashsanthosh.me'
-handle: 'aks.one'
-introImage: 'https://pbs.twimg.com/profile_images/1097543107208302592/-D6NzUsc_400x400.jpg'
+class: text-center
+theme: light-icons
+layout: center
 ---
+
 # Why do you need Tech Communities
 
 slides for Hack Club KMEA
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 p-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    GO <carbon:arrow-right class="inline"/>
+    Go <carbon:arrow-right class="inline"/>
   </span>
 </div>
 
+<a href="https://aks.one" target="_blank"
+  class="abs-br m-6 text-xl !border-none">Akash Santhosh
+</a>
 
+---
+layout: image-right
+equal: true
+image: https://aks.one/sli.dev/Communities.jpg
 ---
 
 # What are Tech Communities?
@@ -37,7 +43,6 @@ Tech Communities are communities driven by a group of people to help and respect
 <br>
 <br>
 
-
 <style>
 h1 {
   background-color: #2B90B6;
@@ -49,7 +54,6 @@ h1 {
   -moz-text-fill-color: transparent;
 }
 </style>
-
 
 ---
 
@@ -71,7 +75,13 @@ h1 {
 <p v-after class="absolute bottom-5 right-35 opacity-30 transform">Apply Skills</p>
 
 
-
+<a href="https://aks.one" target="_blank"
+  class="abs-b m-6 text-xl icon-btn opacity-50 !border-none !hover:text-white">aks.one
+</a>
+---
+layout: image-right
+equal: true
+image: https://aks.one/sli.dev/DSC_0343.JPG
 ---
 
 # Information and Knowledge
@@ -80,24 +90,15 @@ h1 {
 
 - Tech communities today are not just about knowledge sharing today. They are abuzz with the latest developments in technology.
 
-- Peer-to-Peer Learning is an important and innovative learning method in the communities.
-
 - Gaining knowledge can foster collective creativity and give birth to innovative ideas or restructure the existing designs.
 
 - When you are able to put your work out there and also create impact, it gives you opportunities to get job offers.
-
-```mermaid {theme: 'neutral', scale: 0.8}
-graph LR
-	A(Alice)-- Hey, I Know Flutter-->B(John)
-    B-- Cool, I Know Firebase-->A
-```
 
 
 ---
 preload: false
 ---
 
-#
 
 <div class="w-60 relative mt-6">
   <div class="relative w-40 h-40">
@@ -164,9 +165,15 @@ const final = {
 
 </div>
 
+<a href="https://akashsanthosh.me" target="_blank"
+  class="abs-br m-6 text-xl !border-none">Akash Santhosh
+</a>
 
-
+<a href="https://aks.one" target="_blank"
+  class="abs-b m-6 text-xl !border-none">aks.one
+</a>
 ---
+
 
 # What is **Networking** ??
  dont read btw, this is just for a rasam
@@ -177,27 +184,29 @@ A professional networking event is a great opportunity to present yourself, make
 
 Networking is an ongoing process, it requires persistence, attention, organisation and good will. Incorporate the art of networking into your job search and you will gain opportunities and build relationships that will last a lifetime.
 
-
-
+---
+layout: image-right
+equal: true
+image: 'https://aks.one/sli.dev/IMG_6443.JPG'
 ---
 
 # How to network
 
-1. Meet People Through Other People
+1. Meet people through other people
 
-2. Leverage Social Media
+2. Leverage social media
 
-3. Don’t Ask For A Job
+3. Don’t ask for a job right away
 
-4. Use Your Resume as a Tool for Advice
+4. Use your resume as a tool for advice
 
-5. Don’t Take Up Too Much Time
+5. Don’t take up too much time
 
-6. Let The Other Person Speak
+6. Let the other person speak
 
-7. Find a Reason to Follow Up
+7. Find a reason to follow up
 
-8. Online Presence
+8. Online presence
 
 9. Information/News
 
@@ -205,23 +214,22 @@ Networking is an ongoing process, it requires persistence, attention, organisati
 
 11. Never dismiss anyone as unimportant.
 
-
+<a href="https://akashsanthosh.me" target="_blank"
+  class="abs-br m-6 text-xl !border-none">Akash Santhosh
+</a>
 
 ---
-layout: center
+layout: dynamic-image 
+image: 'https://aks.one/sli.dev/AkashSanthosh.jpg'
 class: text-center
 ---
 
-
 # Thank You
- 
- ## Akash Santhosh 
 
-<BarBottom
-  title="Akash Santhosh"
-  :social="[
-    { type: 'ig', username: 'akash._.santhosh' },
-    { type: 'tw', username: '_akashsanthosh' },
-    { type: 'wb', username: 'aks.one' }
-  ]"
-/>
+## Akash Santhosh
+
+[Engineer](https://aks.one) / [Evangelist](https://github.com/slidevjs/slidev)
+
+<a href="https://aks.one" target="_blank"
+  class="abs-br m-6 text-xl !border-none">aks.one
+</a>
